@@ -16,6 +16,7 @@ venv/
 env/
 *.venv
 *.env
+IsolaMenu_env/
 
 # PyCharm
 .idea/
